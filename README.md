@@ -12,6 +12,7 @@ Commands practiced:
 -cd
 -mkdir
 -touch
+### Screenshots
 
 ## Session 1b: Exploring LINUX
 -to be completed
