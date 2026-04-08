@@ -7,11 +7,11 @@ The lab covers virtual machine deployment, server management, scripting, automat
 ### Ubuntu Installation
 -Installed Ubuntu using virtual machine and explored basic Linux commands
 ### Basic Commands Practice
--pwd
--ls
--cd
--mkdir
--touch
+  -pwd
+  -ls
+  -cd
+  -mkdir
+  -touch
 Also explored Linux directory structure and manual pages.
 ### Screenshots
 -Ubuntu
@@ -28,7 +28,7 @@ Results had showed that cloud computing is more cost-effective due to lower upfr
 <img width="460" height="493" alt="Screenshot 2026-04-08 at 3 01 02 AM" src="https://github.com/user-attachments/assets/83a3417c-6995-4aba-9827-bb06bf79cdee" />
 <img width="704" height="647" alt="Screenshot 2026-04-08 at 3 01 37 AM" src="https://github.com/user-attachments/assets/c3b0663e-4a2c-46bf-aab2-bea0f2d40b00" />
 
-## Session 2B - Amazon Web Services EC2
+## Session 2B - Amazon Web Services AWS EC2
 An EC2 instance was launched using the Ubuntu Server. SSH access was configured using a key pair, allowing serure remote access to the server.
 The server was updated and configured successfully.
 ### Screenshots
