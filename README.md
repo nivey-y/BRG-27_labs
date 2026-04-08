@@ -7,11 +7,11 @@ The lab covers virtual machine deployment, server management, scripting, automat
 ### Ubuntu Installation
 -Installed Ubuntu using virtual machine and explored basic Linux commands
 ### Basic Commands Practice
-  -pwd
-  -ls
-  -cd
-  -mkdir
-  -touch
+### -pwd
+### -ls
+### -cd
+### -mkdir
+### -touch
 Also explored Linux directory structure and manual pages.
 ### Screenshots
 -Ubuntu
